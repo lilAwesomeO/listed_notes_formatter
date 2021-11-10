@@ -1,0 +1,10 @@
+####################
+#~denne strukturen~:
+####################
+	¤ her
+	¤ som
+		- jeg
+		- ofte
+			* benytter
+		- meg
+	¤ utav
